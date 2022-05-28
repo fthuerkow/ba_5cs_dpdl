@@ -23,14 +23,14 @@ Hier blockieren Sich zwei Threads gegenseitig mit Hilfe von Thread.sleep wird di
 
 
 <p>
-3. Logger
+3. <a href="https://github.com/fthuerkow/ba_5cs_dpdl/tree/main/logger" target="_blank">Logger</a>
 
   Beschreibung: <br />
   Einfaches Logging verschiedener Log-Level mit der Standard Java Util-Logging API.
 </p>
 
 <p>
-4. Suchen in Adress-Datensätzen
+4. <a href="https://github.com/fthuerkow/ba_5cs_dpdl/tree/main/contains" target="_blank">Suchen in Adress-Datensätzen</a>
 
 Beschreibung: <br />
 Erzeugen einer Adresse-Klasse mit Attributen (name, strasse, ort). Durchsuchen von Adress-Objekten mit der contains-Methode.
@@ -38,7 +38,7 @@ Erzeugen einer Adresse-Klasse mit Attributen (name, strasse, ort). Durchsuchen v
 </p>
 
 <p>
-5. Textdateien
+5. <a href="https://github.com/fthuerkow/ba_5cs_dpdl/tree/main/streams" target="_blank">Textdateien</a>
 
 Beschreibung: <br />
 Anlegen von Ordnern mit Unterordnern mit Java. Textdateien auslesen und Inhalte in neue Textdateien einfügen.
