@@ -44,3 +44,11 @@ Beschreibung: <br />
 Anlegen von Ordnern mit Unterordnern mit Java. Textdateien auslesen und Inhalte in neue Textdateien einfügen.
 
 </p>
+
+<p>
+6. <a href="https://github.com/fthuerkow/ba_5cs_dpdl/tree/main/Reflection" target="_blank">Reflection</a>
+
+Beschreibung: <br />
+Meta-Informationen über eine Klasse mit dem Java Reflection API auslesen. Beispiel von Domenic Ilius.
+
+</p>
