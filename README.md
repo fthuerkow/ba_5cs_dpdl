@@ -14,7 +14,7 @@
 </p>
 
 <p>
-2. <a href="https://github.com/fthuerkow/ba_5cs_dpdl/tree/main/deadlock" target="_blank"Deadlock Beispiel mit Threads</a>
+2. <a href="https://github.com/fthuerkow/ba_5cs_dpdl/tree/main/deadlock" target="_blank">Deadlock Beispiel mit Threads</a>
 
 Beschreibung: <br />
 Hier blockieren Sich zwei Threads gegenseitig mit Hilfe von Thread.sleep wird die Freigabe von Ressourcen entsprechend künstlich verlängert.
